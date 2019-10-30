@@ -1,3 +1,4 @@
+
 import static java.lang.Math.abs;
 
 public class Rational {
@@ -114,7 +115,6 @@ public class Rational {
                 d %= n;
             }
         }
-
         return n + d;
     }
 
